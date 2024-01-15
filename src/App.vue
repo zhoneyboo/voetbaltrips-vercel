@@ -11,7 +11,7 @@
     <div class="main-wrapper">
         <AppBanner />
         <AppNavigationBar />
-
+        <!-- Hidden comment -->
         <!-- Main content -->
         <div class="px-[17px] lg:px-[100px] py-[40px]">
             <div class="container mx-auto">
